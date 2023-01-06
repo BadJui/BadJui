@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning C/C++,JavaScript-React,CSharp,Java
 Contact me at:
 > 
-> Email: BadJui143@outlook.com
+> Email: BadJui@outlook.com
 > 
 > QQ: 255453798
 
