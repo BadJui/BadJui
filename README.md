@@ -1,6 +1,6 @@
 <h1 align="center">BadJui</h1>
 <div align="center">
-  <a href="BadJui.cnblogs.com" target="_blank">
+  <a href="https://BadJui.cnblogs.com" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.BadJui.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a>&emsp;
   <a href="https://github.com/BadJui" target="_blank">
