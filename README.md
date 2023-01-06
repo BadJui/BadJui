@@ -1,33 +1,33 @@
 <h1 align="center">BadJui</h1>
 <div align="center">
-  <a href="BadJui.cnblogs.com" target="_blank">
-    <img alt="Blog" src="http://common.cnblogs.com/favicon.svg" />
+  <a href="https://blog.BadJui.top" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.BadJui.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a>&emsp;
   <a href="https://github.com/BadJui" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-BadJui-%2312100E.svg?logo=Github&logoColor=white" />
   </a>&emsp;
-  <a href="https://space.bilibili.com/514225993"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 </div>
 
 
 - 👋 Hi, I'm @BadJui
 - 👀 I'm interested in computer
-- 🌱 I'm currently learning C/C++,E,H5
+- 🌱 I'm currently learning C/C++,JavaScript-React,CSharp,Java
 Contact me at:
 > 
-> Email: BadJui@outlook.com
+> Email: BadJui143@outlook.com
 > 
-> QQ: 2029106365
+> QQ: 255453798
 
 
 ### Programming language
-![C](https://i.328888.xyz/2023/01/06/kff6x.png)
-![C++](https://i.328888.xyz/2023/01/06/kfVba.png)
-![E](https://img.pcsoft.com.cn/soft/202101/135815-5ff3fff726710.jpg)
-![Python](https://i.328888.xyz/2023/01/06/kfDgp.png)
-![H5](https://i.328888.xyz/2023/01/06/kfyQk.png)
-![Lua](https://i.328888.xyz/2023/01/06/kfACL.png)
+![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-blue?style=for-the-badge&logo=go&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=java&logoColor=white)
 
 ### Tools
 ![idea](https://img.shields.io/badge/-VisualStudio-black?style=for-the-badge&logo=visualstudio&logoColor=white)
