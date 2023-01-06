@@ -1,12 +1,12 @@
 <h1 align="center">BadJui</h1>
 <div align="center">
-  <a href="https://blog.BadJui.top" target="_blank">
+  <a href="BadJui.cnblogs.com" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-blog.BadJui.top-%231D7EA7.svg?logo=wordpress&logoColor=white" />
   </a>&emsp;
   <a href="https://github.com/BadJui" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-BadJui-%2312100E.svg?logo=Github&logoColor=white" />
   </a>&emsp;
-  <a href="https://space.bilibili.com/674991004/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://space.bilibili.com/514225993"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 </div>
 
