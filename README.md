@@ -13,7 +13,7 @@
 
 - 👋 Hi, I'm @BadJui
 - 👀 I'm interested in computer
-- 🌱 I'm currently learning C/C++,JavaScript-React,CSharp,Java
+- 🌱 I'm currently learning C/C++,JavaScript-React,E,Html
 Contact me at:
 > 
 > Email: BadJui@outlook.com
