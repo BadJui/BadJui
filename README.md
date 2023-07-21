@@ -1,5 +1,5 @@
 
-### 初次见面，我是Jui...BadJui.
+### 初次见面，我是BadJui.
 
 > Becoming a good coder...
 
