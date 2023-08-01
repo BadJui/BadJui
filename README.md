@@ -4,7 +4,7 @@
 > Becoming a good coder...
 
 - :cyclone: 我的
-  - [个人主页](http://badjui.ml)
+  - [个人主页](http://badjui.top/)
 - :telephone_receiver: 联系
   - QQ：2029106365
   - Email: 2029106365@qq.com
